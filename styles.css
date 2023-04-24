@@ -67,3 +67,8 @@ nav a {
 footer{
     background-color: antiquewhite;
 }
+
+#carousel-image{
+    height: 300px;
+    width: 300px;
+}
